@@ -24,6 +24,11 @@ h1, h2 {
   text-align: center;
 }
 
+p {
+  max-width: 75%;
+  margin: 1.5em;
+}
+
 nav {
   padding: 1em;
 }
